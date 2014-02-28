@@ -1,4 +1,4 @@
 kathykiely.github.io
 ====================
 
-Some notes and tips from NICAR14 
+A beginner's playground
